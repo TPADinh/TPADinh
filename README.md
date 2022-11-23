@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TPADinh
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning SwiftUI.
+- 🌱 I’m currently learning SwiftUI and JavaScript.
 - 💞️ I’m looking to make a career change.
 - 📫 
 
